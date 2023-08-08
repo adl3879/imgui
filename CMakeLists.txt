@@ -20,6 +20,8 @@ set(SOURCES
     "backends/imgui_impl_glfw.cpp"
     "backends/imgui_impl_opengl3.h"
     "backends/imgui_impl_opengl3.cpp"
+
+    "IconsFontAwesome5.h"
 )
 set(CMAKE_POSITION_INDEPENDENT_CODE ON)
 
